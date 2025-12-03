@@ -1,0 +1,59 @@
+Welcome, user6577
+
+1. Add Contact
+2. Send Message
+3. Stats
+4. Deconstruct Last
+5. View Last (Index)
+0. Exit
+2
+Msg: Test msg
+Message sent.
+
+1. Add Contact
+2. Send Message
+3. Stats
+4. Deconstruct Last
+5. View Last (Index)
+0. Exit
+4
+Deconstructed Info: user6577 said 'Test msg'
+Time: 0:24 on 4.12.2025 г.. Edited: False
+
+1. Add Contact
+2. Send Message
+3. Stats
+4. Deconstruct Last
+5. View Last (Index)
+0. Exit
+1
+Name: Admin
+[System] Admin Admin joined.
+
+1. Add Contact
+2. Send Message
+3. Stats
+4. Deconstruct Last
+5. View Last (Index)
+0. Exit
+3
+Top: user6577 (1), Shortest: Test msg
+
+1. Add Contact
+2. Send Message
+3. Stats
+4. Deconstruct Last
+5. View Last (Index)
+0. Exit
+2
+Msg: Test msg 2
+Message sent.
+
+1. Add Contact
+2. Send Message
+3. Stats
+4. Deconstruct Last
+5. View Last (Index)
+0. Exit
+5
+Last: Test msg 2
